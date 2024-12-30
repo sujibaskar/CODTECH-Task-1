@@ -6,6 +6,6 @@ Duration:20th Dec to 20th Jan 2024
 
  Interactive quiz application where users can answer multiple-choice questions and receive feedback. Use JavaScript to handle quiz logic (e.g.,scoring,question,navigation).Display results at the end of the quiz.
  
-![Screenshot 2024-12-30 211955](https://github.com/user-attachments/assets/d315dc90-93ce-4db9-b9a9-0a6e90b1350f)
-![Screenshot 2024-12-30 212022](https://github.com/user-attachments/assets/5ea2fef5-344d-4238-8149-a539600a4890)
-![Screenshot 2024-12-30 212032](https://github.com/user-attachments/assets/9eb823be-79bd-49f8-bf0e-26a96c738f1a)
+![Screenshot 2024-12-30 215626](https://github.com/user-attachments/assets/d512fbe6-4c0a-4e69-9af4-20ad71a7752a)
+![Screenshot 2024-12-30 215723](https://github.com/user-attachments/assets/f1e3c5fa-6509-4b46-8eab-90e4bc9270df)
+![Screenshot 2024-12-30 215746](https://github.com/user-attachments/assets/77206259-061a-4f06-9d17-e14ba2c9aee9)
